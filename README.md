@@ -17,6 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 <p>
 <img src="https://github.com/bayramanli/flutter_calculator_ui/blob/master/picture_dark.PNG" width="500" heigth="220">
-&nbsp;
 <img src="https://github.com/bayramanli/flutter_calculator_ui/blob/master/picture_light.PNG" width="500" heigth="220">
 </p>
